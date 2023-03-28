@@ -1,4 +1,4 @@
-# 💫 About Me:
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi I'm Sanketh:
 Software Engineer with a passion for Artificial intelligence and Data science.<br>Shoot me an [email](mailto:sankethks.98@gmail.com) or add me on [LinkedIn](https://linkedin.com/in/sanketh-k-s-131974175) : )
 
 
