@@ -1,5 +1,5 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi I'm Sanketh:
-Software Engineer with a passion for Artificial intelligence and Data science.<br>Shoot me an [email](mailto:sankethks.98@gmail.com) or add me on [LinkedIn](https://linkedin.com/in/sanketh-k-s-131974175) : )
+Software Engineer with a passion for DevOps, Artificial intelligence and Data science.<br>Shoot me an [email](mailto:sankethks.98@gmail.com) or add me on [LinkedIn](https://linkedin.com/in/sanketh-k-s-131974175) : )
 
 
 ## 🌐 Socials:
@@ -12,7 +12,7 @@ Software Engineer with a passion for Artificial intelligence and Data science.<b
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sankethhhh&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sankethhhh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
